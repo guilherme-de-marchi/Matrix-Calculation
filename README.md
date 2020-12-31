@@ -24,7 +24,7 @@
     - > matrix_A - Matrix_B ... or ... matrix_A -= Matrix_B 
     
 - **Multiplication:**
-    - > matrix_A * Matrix_B ... or ... matrix_A *= Matrix_B 
+    - > matrix_A * Matrix_B ... or ... matrix_A * number ... or ... matrix_A *= Matrix_B
     
 - **Transposition:**
     - > matrix_A = matrix_A.transpose()
