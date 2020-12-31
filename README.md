@@ -1,4 +1,4 @@
 # Class for Mathematical Matrices
-class that facilitates matrix calculations
+class that facilitates matrix calculations using Python
 
-learn to do math with matrices here: https://www.theinformationlab.co.uk/2017/05/26/introduction-matrix-calculations/
+Learn to do math with matrices here: https://www.theinformationlab.co.uk/2017/05/26/introduction-matrix-calculations/
